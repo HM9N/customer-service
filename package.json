@@ -1,0 +1,22 @@
+{
+  "name": "customer-service",
+  "version": "1.0.0",
+  "description": "lab 2 ing web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HM9N/customer-service.git"
+  },
+  "author": "Jhon Vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HM9N/customer-service/issues"
+  },
+  "homepage": "https://github.com/HM9N/customer-service#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
